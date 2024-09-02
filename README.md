@@ -39,3 +39,5 @@
       src="https://img.shields.io/badge/dlwldjs3132@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ez0603&layout=compact)
