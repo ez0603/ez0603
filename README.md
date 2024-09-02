@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://s6.ezgif.com/tmp/ezgif-6-37e76ace7a.gif" />
+<img src="https://s6.ezgif.com/tmp/ezgif-6-56764f292d.gif" />
 </div>
 
 <!--내용 부분-->
