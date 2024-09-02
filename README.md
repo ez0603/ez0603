@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Jieon%20GitHub&fontSize=90" />
+<img src="https://files.oaiusercontent.com/file-uOemzfgNteTyuoPd0SfW4vfi?se=2024-09-02T10%3A17%3A41Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dimage.png&sig=Xk1h2CIT7D8V88LmjrCwoHboU%2BQBlp3EwdXczYwEgpc%3D" />
 </div>
 
 <!--내용 부분-->
