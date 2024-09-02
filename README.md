@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://chat.openai.com/mnt/data/Jieon_Github_Banner.jpg" alt="Jieon's Github Banner" />
+  <img src="https://chat.openai.com/mnt/data/캡처.PNG" alt="Welcome to Jieon's Github" />
 </div>
-
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
