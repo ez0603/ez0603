@@ -44,7 +44,7 @@
 
 <h3 align="center">📊 Most Used Languages 📊</h3>
 <div align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ez0603&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ez0603&layout=compact)
 </div>
 
 
