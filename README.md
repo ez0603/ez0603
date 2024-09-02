@@ -1,6 +1,7 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Jieon%20Github&fontSize=90" />
+  <img src="https://chat.openai.com/mnt/data/Jieon_Github_Banner.jpg" alt="Jieon's Github Banner" />
 </div>
+
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
