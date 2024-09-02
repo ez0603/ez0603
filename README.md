@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://files.oaiusercontent.com/file-xFfpUVVK7O6l9Eqc0kzsL4Ro?se=2024-09-02T09%3A55%3A22Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dimage.png&sig=JuXw5rFIHTtLX6VlblmyAiwg0wjG0SegbnDPd8mSRt4%3D" alt="Welcome to Jieon's Github" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Jieon%20GitHub&fontSize=90" />
 </div>
 
 <!--내용 부분-->
