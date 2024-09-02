@@ -48,6 +48,7 @@
 
 <br/>
 
+<h3 align="center"> 📊 GitHub Stats 📊</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ez0603&show_icons=true&theme=radical" alt="Anurag's GitHub stats" />
 </div>
