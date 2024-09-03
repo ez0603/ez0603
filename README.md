@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://s6.ezgif.com/tmp/ezgif-6-56764f292d.gif" />
+<img src="C:\Users\KOREA\Desktop\KakaoTalk_20240902_194205089_02.jpg" />
 </div>
 
 <!--내용 부분-->
