@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://files.oaiusercontent.com/file-PeGnZTgEDbLA1B6jp0yrW15E?se=2024-09-03T05%3A20%3A17Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3DKakaoTalk_20240902_194205089_02.jpg&sig=SCippiDKmd0emWrZolJMDIbW/hzVAkqHGtCKuMDUUOE%3D" />
+  <img src="https://files.oaiusercontent.com/file-A3ZyXiqLCLkbHYP3WxkIxGO7?se=2024-09-03T06%3A20%3A17Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dimage_converted.jpg&sig=RrN9LUzz8bo%2BstDW8qNuEGvjMJ%2FnyRmGoz9qC5yflw8%3D" />
 </div>
 
 <!--내용 부분-->
